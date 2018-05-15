@@ -6,7 +6,13 @@
     <groupId>hu.domika</groupId>
     <artifactId>sample-weather-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>sws-domain</module>
+        <module>sws-repository</module>
+        <module>sws-service</module>
+        <module>sws-web</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <name>sample-weather-service</name>
     <description>Sample Weather Service - Practice project for Spring Boot</description>

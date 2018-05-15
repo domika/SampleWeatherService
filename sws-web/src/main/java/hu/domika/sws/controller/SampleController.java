@@ -1,6 +1,6 @@
-package hu.domika.sampleweatherservice.controller;
+package hu.domika.sws.controller;
 
-import hu.domika.sampleweatherservice.model.SampleResponse;
+import hu.domika.sws.model.SampleResponse;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;

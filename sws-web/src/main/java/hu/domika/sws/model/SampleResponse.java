@@ -1,4 +1,4 @@
-package hu.domika.sampleweatherservice.model;
+package hu.domika.sws.model;
 
 /**
  * @author Balazs_Domonkos

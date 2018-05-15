@@ -16,5 +16,5 @@ management:
 
 info:
   app:
-    version: @project.version@
-    name: @project.name@
+    version: @project.parent.version@
+    name: @project.parent.name@
