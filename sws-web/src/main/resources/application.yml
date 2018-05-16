@@ -18,3 +18,9 @@ info:
   app:
     version: @project.parent.version@
     name: @project.parent.name@
+
+spring:
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
